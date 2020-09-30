@@ -15,7 +15,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@spribe/slots": ["libs/slots/src/index.ts"],
+      "@spribe/shared-components": ["libs/shared-components/src/index.ts"],
+      "@spribe/pixi-functionality": ["libs/pixi-functionality/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }

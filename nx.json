@@ -28,6 +28,15 @@
     "example-one-e2e": {
       "tags": [],
       "implicitDependencies": ["example-one"]
+    },
+    "slots": {
+      "tags": []
+    },
+    "shared-components": {
+      "tags": []
+    },
+    "pixi-functionality": {
+      "tags": []
     }
   }
 }
